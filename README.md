@@ -83,3 +83,4 @@ Predicted value: 193075.97426510364
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
+
